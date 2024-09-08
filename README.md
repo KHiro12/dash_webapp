@@ -1,0 +1,2 @@
+# dash_webapp
+pythonでdashを利用したwebappサンプル
